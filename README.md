@@ -1,6 +1,8 @@
 # My Cybersecurity Lab: VirtualBox + Kali Linux
 
 Networkwalks, Week 1, Project Module 1
+
+
 By Muhumuza Nicholas
 
 ## What this project is
@@ -142,5 +144,7 @@ This lab is only for learning. I will only test machines that belong to me or wh
 ## About me
 
 Muhumuza Nicholas
+
+
 Cybersecurity program student, Networkwalks Academy
 LinkedIn: https://www.linkedin.com/in/muhumuza-nicholas-669109447/
